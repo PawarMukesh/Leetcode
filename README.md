@@ -1,14 +1,12 @@
-# Leetcode
-Python and SQL Question Practice
+
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/PawarMukesh/Leetcode/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/PawarMukesh/Leetcode/tree/master/0001-two-sum) |
+ # LeetCode Python and SQL Question Practice with Solutions
+
+
+## Table of Contents
+
+| Problem  | Problem Name              | Solution Link                              | Date Solved  |
+|----------|---------------------------|---------------------------------------------|--------------|
+| 1        | Two Sum                    | [Solution](./0001-two-sum)                  | 2024-09-25   |
 <!---LeetCode Topics End-->
